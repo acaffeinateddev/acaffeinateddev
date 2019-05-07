@@ -83,7 +83,15 @@ header#sidebar {
 }
 .branding {
     text-align:center;
-    margin-bottom:50px;
+    margin-bottom:5px;
+}
+.social-media {
+    margin-bottom: 40px;
+    text-align:center;
+}
+.social-media a:before {
+    font-size:15px;
+    margin-right:10px
 }
 .branding h1 {
     font-weight:normal;
